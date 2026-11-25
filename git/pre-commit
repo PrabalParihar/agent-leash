@@ -1,0 +1,3 @@
+#!/bin/sh
+# agent-leash pre-commit gate: secret scan + tests
+exec python3 "$HOME/.agent-leash/leash.py" precommit

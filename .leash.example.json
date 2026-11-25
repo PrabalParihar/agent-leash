@@ -1,0 +1,4 @@
+{
+  "test_command": "npm test --silent",
+  "deny_commands": []
+}
